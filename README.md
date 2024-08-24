@@ -22,6 +22,12 @@
 * Arrow characters; left, up, right, down
 `Ctrl + Shift + U + 2190/2191/2192/2193 + Enter`
 
+### File Commands
+
+`$ pwd` - Print\Present Working Directory
+`$ ls -al`  - List files/directoies; `-a` list All files `-l` list all details
+
+
 ## YouTube
 
 `Linux Essentials for Ethical Hackers - Full InfoSec Course` by `freeCodeCamp.org`, `Hackersploit`
@@ -30,7 +36,7 @@ Source: -
 
 01. Introdutction
 02. Useful keyboard Shortcuts
-03.
+03. File Management & Manipulation
 04.
 05.
 06.
